@@ -1,0 +1,36 @@
+@font-face{
+    font-family: Rubik; 
+    src: url(../fonts/Rubik/RubikBeastly-Regular.ttf); 
+}
+body{
+    width: 400px;
+    margin: 0 auto;
+
+}
+
+article{
+    font-family: Rubik;
+    direction: rtl;
+    color: red;
+}
+p{
+    text-align: center;
+    text-decoration-line: overline;
+
+    color: orange;
+    font-weight: bold;
+    font-style: italic;
+}
+section{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: yellow;
+    text-transform: uppercase;
+    font-weight: 400;
+
+}
+span{
+    text-align: center;
+    color: green;
+    font-weight: bolder;
+    text-transform: lowercase;
+}
